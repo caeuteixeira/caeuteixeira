@@ -1,16 +1,17 @@
 ### ✨ Welcome to my profile! ✨
 ##
-🪴 Experiência em UX/UI Design e estudando backend (Python) e Computação em nuvem (AWS)  
-🪴 Noções básicas de frontend e bancos de dados
+🪴 Experiência em UX/UI Design, com noções básicas de frontend e estudando backend (Python), banco de dados(MySQL) e Computação em nuvem (AWS)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caeuteixeira&show_icons=true&,prs&cache_seconds=86400&theme=gruvbox_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeuteixeira&layout=compact&langs_count-16&theme=gruvbox_light)
 
 <div style-"display: inline_block"›<br>
-<img align="center" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="center" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="center" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <div/>  
 
   ##
