@@ -1,6 +1,6 @@
 ### ✨ Welcome to my profile! ✨
 ##
-🪴 Experiência em UX/UI Design, com noções básicas de frontend e estudando backend (Python e Go), banco de dados(MySQL) e Computação em nuvem (AWS)  
+🪴 Experiência em UX/UI Design, com noções básicas de frontend e estudando backend.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caeuteixeira&show_icons=true&,prs&cache_seconds=86400&theme=gruvbox_light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeuteixeira&layout=compact&langs_count-16&theme=gruvbox_light)
